@@ -1,1 +1,1 @@
-web: gunicorn take_home_project.wsgi --log-file
+web: gunicorn take_home_project.wsgi
